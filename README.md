@@ -1,5 +1,5 @@
 ## Basic Python 01 
----
+
 ### Variables :
 1. Write a program that swaps the values of two variables.
 2. Write a program that calculates the area of a rectangle given its length and width.
